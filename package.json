@@ -1,15 +1,15 @@
 {
-  "name": "iobroker.rfxcom",
+  "name": "iobroker.rfxcom_nd",
   "version": "1.0.1",
   "description": "ioBroker RFLink Adapter",
   "author": {
-    "name": "bluefox",
-    "email": "dogafox@gmail.com"
+    "name": "ndo84bw",
+    "email": "example@gmail.com"
   },
   "contributors": [
     {
-      "name": "Bluefox",
-      "email": "dogafox@gmail.com"
+      "name": "ndo84bw",
+      "email": "example@gmail.com"
     }
   ],
   "homepage": "https://github.com/ioBroker/ioBroker.rfxcom",
